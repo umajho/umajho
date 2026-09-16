@@ -26,7 +26,7 @@
 
 ### Miscellaneous 
 
-- https://github.com/umajho/bangumi-eprt: Adding support for rating episodes individually on <https://bgm.tv>. ![](https://img.shields.io/badge/Language-English-green) ![](https://img.shields.io/github/license/umajho/bangumi-eprt) ![](https://img.shields.io/github/languages/top/umajho/bangumi-eprt)
+- https://github.com/umajho/bangumi-eprt: Adding support for rating episodes individually on <https://bgm.tv>. ![](https://img.shields.io/badge/Language-中文（官话）-green) ![](https://img.shields.io/github/license/umajho/bangumi-eprt) ![](https://img.shields.io/github/languages/top/umajho/bangumi-eprt)
 
 ## Where I can be found
 
