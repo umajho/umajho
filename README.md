@@ -1,16 +1,34 @@
-## Hi there 👋
+## What I'm building
 
-<!--
-**umajho/umajho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A platform for my interpretation of 岛团 → [rolludejo] · [tuan-run] (nat-lang:zh-cmn)
 
-Here are some ideas to get you started:
+- [rotext](https://github.com/umajho/rotext): A markup format designed for rolludejo. (license:mit) (nat-lang:zh-cmn) (prog-lang:rust)
+- [dicexp](https://github.com/umajho/dicexp): A DSL for rolling die. (license:mit) (nat-lang:zh-cmn) (prog-lang:typescript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[rolludejo]: https://github.com/rolludejo
+[tuan-run]: https://github.com/tuan-run
+
+### Tools and building-blocks that assist people in creating creative works → [kreantio] (nat-lang:en) (prog-lang:rust)
+
+- [openfx-rs](https://github.com/kreantio/openfx-rs): OpenFX bindings and tools for Rust. (license:bsd-3-clause) (nat-lang:en) (prog-lang:rust)
+- wofx (planned): Web-technology-based runtime for image-based visual effect plugins. (license:bsd-3-clause) (nat-lang:en) (prog-lang:rust)
+
+[kreantio]: https://github.com/kreantio
+
+### Tools related to speech synthesis → [lazurema] (nat-lang:en) (prog-lang:rust)
+
+- voĉa (not ready yet): A voice labeler. (license:mit) (nat-lang:en) (prog-lang:rust)
+- parolujo (not ready yet): a synthesized speech orchestrator. (license:mit) (nat-lang:en) (prog-lang:rust)
+
+[lazurema]: https://github.com/lazurema
+
+### Miscellaneous 
+
+- https://github.com/umajho/bangumi-eprt: Adding support for rating episodes individually on <https://bgm.tv>. (license:mit) (nat-lang:zh-cmn) (prog-lang:typescript)
+
+## Where I can be found
+
+- Twitter: https://twitter.com/umajxo
+- Bilibili[^1]: https://space.bilibili.com/1781401034
+
+[^1]: Yeah, even though this identity was born from (the collapse of) A岛, I prefer this platform ¯\_(ツ)_/¯
