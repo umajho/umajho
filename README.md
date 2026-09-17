@@ -1,7 +1,6 @@
 ## What I'm building
 
-### A platform for my interpretation of 岛团 → [rolludejo] · [tuan-run] ![](https://img.shields.io/badge/💬-中文（官话）-green)
-
+### A platform for my interpretation of <ruby>岛团<rt>freeform forum-based TTRPG</rt></ruby> → [rolludejo] · [tuan-run] ![](https://img.shields.io/badge/💬-中文（官话）-green)
 
 - [rotext](https://github.com/umajho/rotext): A markup format designed for rolludejo. ![](https://img.shields.io/github/license/umajho/rotext) ![](https://img.shields.io/github/languages/top/umajho/rotext)
 - [dicexp](https://github.com/umajho/dicexp): A DSL for rolling die. ![](https://img.shields.io/github/license/umajho/dicexp) ![](https://img.shields.io/github/languages/top/umajho/dicexp)
